@@ -6,14 +6,13 @@
 creating an <i> alpha </i> and a <i> pack </i> class with rules such as:</p>
 <ul>
   <li>The alpha is singular and is bigger in size compared to others in pack. The alpha is also the fastest one of all.</li>
-  <li>The alpha directs the pack. The pack follows behind the alpha. There is always some space between the alpha and the pack. </li>
-  <li>Members of the pack have different speeds (so that they don't end up looking like a singular dot on the screen).</li>
+  <li>The alpha directs the pack. The pack follows behind the alpha. </li>
 </ul>
 
-![image](https://github.com/renaidn/Robota-Psyche/blob/main/February14/feb_14_asg_screenshot.png)
+![image](https://user-images.githubusercontent.com/83557500/153837687-fb7966bf-0288-4903-8657-adafab87963d.png)
 
-<p>I had issues with making the pack members follow strictly behind the alpha, so it's something to work on. It also took me quite a while to figure out the
-to figure out the proper directioning of the triangles.</p>
+<p>I had issues with making the pack members stop covering one another, it's something to work on. It also took me quite a while to figure out the
+to figure out the proper directioning of the triangles. The alpha is independent and can change direction and speed at any point of the walk.</p>
 <p>The ecosystem is quite simplistic at the moment. In the future, I'd add: </p>
 <ul>
   <li>a collision function (for the pack members not to cover one another),</li> 
