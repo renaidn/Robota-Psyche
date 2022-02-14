@@ -10,6 +10,8 @@ creating an <i> alpha </i> and a <i> pack </i> class with rules such as:</p>
   <li>Members of the pack have different speeds (so that they don't end up looking like a singular dot on the screen).</li>
 </ul>
 
+![image](https://github.com/renaidn/Robota-Psyche/blob/main/February14/feb_14_asg_screenshot.png)
+
 <p>I had issues with making the pack members follow strictly behind the alpha, so it's something to work on. It also took me quite a while to figure out the
 to figure out the proper directioning of the triangles.</p>
 <p>The ecosystem is quite simplistic at the moment. In the future, I'd add: </p>
@@ -23,3 +25,5 @@ to figure out the proper directioning of the triangles.</p>
   </li>
 </ul>
 <p>I'd also love to play around with the age setting (how would the new alpha be chosen after the death of its predecessor?).</p>
+
+![Click on this link to watch the video](https://github.com/renaidn/Robota-Psyche/blob/main/February14/prod_asg_14feb.mp4)
