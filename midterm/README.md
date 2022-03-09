@@ -46,10 +46,16 @@ Collision function was a base for a number of functionalities in my ecosystem. I
 
 The distance function was also helpful in finding rabbits within the reach of alpha, so that the alpha could choose a pray to follow and direct its head at it (rotation). 
 
-From this point, I have run into the problem when creating more rabbits. When two rabbits would interact with each other they multiplied the total number of rabbits in the ecosystem by itself, instead of increasing it by one. This issue was resolved by randomizing the possibility of getting an offspring. Decreasing the chance of it from 100 to 66 percent cleared out the issue. 
+From this point, I have run into the problem when creating more rabbits. When two rabbits would interact with each other they multiplied the total number of rabbits in the ecosystem by itself, instead of increasing it by one. This issue was resolved by randomizing the possibility of getting an offspring. Decreasing the chance of it from 100 to 66 percent cleared out the issue.
+
+As I was wrapping up on implementing the functionality for the ecosystem, I have came to a conclusion that it would make more sense for me to store information about the pack inside of the Alpha class as alpha's actions directly impacted the pack and the pack did not do anything on their one. Before that I had both of them separate, as I was considering expanding pack's functionality. 
 
 ## Interesting observations / things I have learnt #
 
+
+
 ## References #
+
+In the making of this ecosystem I have been extensively refering to the lecture notes, The Nature of Code, and the processing reference page.
 
 
