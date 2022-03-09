@@ -52,8 +52,6 @@ From this point, I have run into the problem when creating more rabbits. When tw
 
 As I was wrapping up on implementing the functionality for the ecosystem, I have came to a conclusion that it would make more sense for me to store information about the pack inside of the Alpha class as alpha's actions directly impacted the pack and the pack did not do anything on their one. Before that I had both of them separate, as I was considering expanding pack's functionality.
 
-You can view the ecosystem simulation by [clicking here](https://processing.org/reference/second_.html).
-
 ## Interesting observations / unexpected behaviours #
 
 After running the stimulation for a few times, I have noticed that sometimes when two alphas move nearby, one of the alphas may push the other into the wall, to the point where the alpha gets trapped outside of the screen borders and struggling to come back. Eventually, it would drag its pack to the other side of the screen border with it. I am surprised by this unexpected display of aggressive behaviour considering that I have planned for the alphas to stay neutral in relation to one another.
