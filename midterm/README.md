@@ -52,7 +52,7 @@ From this point, I have run into the problem when creating more rabbits. When tw
 
 As I was wrapping up on implementing the functionality for the ecosystem, I have came to a conclusion that it would make more sense for me to store information about the pack inside of the Alpha class as alpha's actions directly impacted the pack and the pack did not do anything on their one. Before that I had both of them separate, as I was considering expanding pack's functionality.
 
-To see the sped up simulation video [click here](https://youtu.be/G0iXJ0y33s4).
+To see the sped up simulation video [click here](https://youtu.be/G0iXJ0y33s4)!
 
 ## Interesting observations / unexpected behaviours #
 
