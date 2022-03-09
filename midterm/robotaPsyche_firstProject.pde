@@ -1,3 +1,10 @@
+/*
+short description
+Midterm project: Wolf Pack Ecosystem
+Course: IM-UH 3313 Robota Psyche
+Name: Adina Maratkyzy (am10567)
+Date: March 9, 2022
+*/
 //---------------------------------------------------------------------------------//
 //creating first pack
 //---------------------------------------------------------------------------------//
